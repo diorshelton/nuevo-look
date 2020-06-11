@@ -1,0 +1,20 @@
+h1{
+  color:rgb(233, 14, 233);
+}
+
+img{
+  height:auto;
+  width: 20%
+}
+.before{
+ float: left;
+
+}
+
+.text{
+  width: 30%;
+  float: right;
+  background-color: navy;
+  color:darkkhaki
+}
+
