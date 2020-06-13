@@ -24,7 +24,27 @@ img{
 .text{
   width: 30%;
   float: right;
-  background-color: teal;
   color:darkkhaki
+  
 }
 
+.interior1{
+  float:left;
+  padding: 5px;
+  margin-bottom:4px;
+
+}
+
+.interior2{
+  float:left;
+  padding: 5px;
+  margin-bottom:4px;
+  
+}
+
+.interior3{
+  float:left;
+  padding: 5px;
+  margin-bottom:4px;
+
+}
